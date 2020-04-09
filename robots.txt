@@ -1,0 +1,3 @@
+Sitemap: https://omgforever.com/sitemap.xml
+User-agent: *
+Disallow:
