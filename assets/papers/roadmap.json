@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "type": "title",
+      "data": "Roadmap"
+    },
+    {
+      "type": "header",
+      "data": "Planned Features"
+    },
+    {
+      "type": "body",
+      "data": "• Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n• Vestibulum aliquet ligula nibh, ac volutpat dui faucibus id. In finibus augue sed faucibus pellentesque.\n• Donec in nibh sed turpis tincidunt ornare.\n• Nullam vulputate risus dolor, vitae efficitur ex venenatis in. \n• Integer maximus ante in libero commodo lobortis."
+    }
+  ]
+}

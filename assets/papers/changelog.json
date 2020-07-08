@@ -1,0 +1,185 @@
+{
+  "content": [
+    {
+      "type": "title",
+      "data": "Changelog"
+    },
+    {
+      "type": "header",
+      "data": "Hey, what's your name?"
+    },
+    {
+      "type": "subheader",
+      "data": "9/24/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Added popup to let users choose a nickname"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Verifying email work"
+    },
+    {
+      "type": "subheader",
+      "data": "9/23/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Added functionality to Login Popup\n• Added funtionality to Verify Email Popup\n• Requests to resent verify codes can now be sent\n• Verify codes can now be submitted"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "9/19/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Increased margins on popup windows to allow breathing room for the scrollbar\n• Added popup to allow users to verify their emails"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "9/4/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Fixed the register popup window's state update"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "9/2/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Added funtionality to the Register popup window\n• Fixed a bug where empty space was being shown in popups"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "9/1/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Version is now passed down properly from the Wrapper\n• Added support for high resolution wallpapers\n• Added a settings popup with options to toggle high resolution wallpapers and stage quality\n• APaper popup now renders text contents and has a title element\n• Fixed a bug where queued popups wouldn't clear\n• Added a settings button to the browser\n• Version ID and Version UID are now displayed in settings popup\n• Other minor tweaks and fixes"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "8/29/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Dynamic Pan Image components now save their source so they only load once"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Visuals"
+    },
+    {
+      "type": "subheader",
+      "data": "8/27/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Added dynamic pan image button component\n• Added a close button to various popups\n• Added the splash page\n• Added a Page component"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Oh more visual stuff"
+    },
+    {
+      "type": "subheader",
+      "data": "8/25/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Fine tuned the loading process\n• Implemented popups in the browser component"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Some behind the scene stuff"
+    },
+    {
+      "type": "subheader",
+      "data": "8/23/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Cleanued up language files\n• Added a BulkLoader"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "Some visual advancements"
+    }, 
+    {
+      "type": "subheader",
+      "data": "8/21/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Added visible version number to loading screen\n• Implemented navigation bar, user bar and task bar"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "header",
+      "data": "The start..."
+    },
+    {
+      "type": "subheader",
+      "data": "8/15/2018"
+    },
+    {
+      "type": "body",
+      "data": "• Migrated old Client code over\n• Added Stickers and Backgrounds\n• Login and Registration windows now extend the BaseModal class\n• Added a Checkbox Component \n• Dynamic Pan Image Component now accepts Bitmaps as its source as well as URLs, same way a Spark Image component does"
+    }
+  ]
+}
