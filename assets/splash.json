@@ -1,6 +1,6 @@
 {
   "spotlight": {
-    "image": "omg-green",
+    "image": "wallpapers/%WALLPAPER_RESOLUTION%/omg-green.jpg",
     "imageColor": "0x74cc74",
     "labelText": "Changelog",
     "buttonText": "Read more",
@@ -13,7 +13,7 @@
   },
   "features": [
     {
-      "image": "omg-blue",
+      "image": "wallpapers/%WALLPAPER_RESOLUTION%/omg-blue.jpg",
       "imageColor": "0x2a6e9a",
       "labelText": "A Free Gift - Because We Love You!",
       "buttonText": "Claim it now",
@@ -25,7 +25,7 @@
       }
     },
     {
-      "image": "omg-black",
+      "image": "wallpapers/%WALLPAPER_RESOLUTION%/omg-black.jpg",
       "imageColor": "0x0x2e2e2e",
       "labelText": "Don't Have an Account Yet?",
       "buttonText": "Sign up",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "image": "omg-pink",
+      "image": "wallpapers/%WALLPAPER_RESOLUTION%/omg-pink.jpg",
       "imageColor": "0xc772bd",
       "labelText": "OMG Forever's Roadmap",
       "buttonText": "Read more",
